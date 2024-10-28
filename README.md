@@ -16,5 +16,5 @@ A simple Python app that visualizes how many weeks you've lived and how many you
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Shardul-no/life-in-weeks.git
+   git clone https://github.com/Shardul-no/How-many-weeks-do-you-have-left.git
    cd life-in-weeks
